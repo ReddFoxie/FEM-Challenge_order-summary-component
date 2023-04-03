@@ -4,7 +4,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ## Overview
 
-Live Site URL: [Order summary card](link here)
+Live Site URL: [Order summary card](https://reddfoxie.github.io/FEM-Challenge_order-summary-component/)
 
 ### Useful resources
 
